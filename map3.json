@@ -25,6 +25,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/2-technical-trends\/radars\/cloud\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -61,11 +66,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/2-technical-trends\/radars\/cyber-security\/"
-                }, 
-                {
-                 "name":"openWebsiteWidth",
-                 "type":"number",
-                 "value":80
                 }],
          "type":"tilelayer",
          "visible":true,
