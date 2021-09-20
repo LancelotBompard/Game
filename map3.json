@@ -48,6 +48,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/2-technical-trends\/radars\/corporate-and-social-responsibilities\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -66,6 +71,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/2-technical-trends\/radars\/cyber-security\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -84,6 +94,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/2-technical-trends\/radars\/development-devops-devsecops\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -102,6 +117,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/2-technical-trends\/radars\/innovation\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -120,6 +140,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/2-technical-trends\/radars\/network\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -138,6 +163,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/2-technical-trends\/radars\/rcr\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -156,6 +186,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/2-technical-trends\/radars\/open-source\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -174,6 +209,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/2-technical-trends\/radars\/workplace\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -192,6 +232,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"htpps:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/3-sg-context\/corporate-and-social-responsability\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -210,6 +255,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/3-sg-context\/skillup\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -228,6 +278,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/3-sg-context\/development\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -246,6 +301,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/3-sg-context\/innovation\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -264,6 +324,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/3-sg-context\/open-source\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -282,6 +347,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/3-sg-context\/security-and-resilience\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -300,6 +370,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/3-sg-context\/emerging-tech\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -318,6 +393,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/1-executive-summary\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -336,6 +416,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/4-strategy-orientations\/workplace\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -354,6 +439,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/4-strategy-orientations\/application_hosting\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -372,6 +462,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/4-strategy-orientations\/data-and-ai\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -390,6 +485,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/4-strategy-orientations\/cybersecurity\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -408,6 +508,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/4-strategy-orientations\/datacenter-connectivity\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -426,6 +531,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/4-strategy-orientations\/is-for-gts\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -444,6 +554,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/4-strategy-orientations\/development\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -462,6 +577,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/4-strategy-orientations\/innovation\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
